@@ -2,6 +2,7 @@
 
 ## Reviewers
 Daniele Avitabile, Associate Prof., Faculty of Science, Mathematics, VU Amsterdam, Amsterdam, The Netherlands.
+
 Denis Sheynikhovich, Associate Prof. and head of the "Aging in Vision and Action" lab at the Vision Institute, Sorbonne Université, Paris, France.
 
 ## Examiners
