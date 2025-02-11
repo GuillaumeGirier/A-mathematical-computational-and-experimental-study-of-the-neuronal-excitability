@@ -6,12 +6,16 @@ Denis Sheynikhovich, Associate Prof. and head of the "Aging in Vision and Action
 
 ## Examiners
 Daniele Avitabile, Associate Prof., Faculty of Science, Mathematics, VU Amsterdam, Amsterdam, The Netherlands.
+
 Manuel Maria Graña Romay, Prof., Department of Computer Science and Artificial Intelligence, UPV EHU, Leioa, Spain.
+
 Jan Tønnesen, Group leader, CSIC titular, Nanoscale Neurophysiology Lab, Instituto Biofisika, Leioa, Spain.
 
 ## Substitutes
 Denis Sheynikhovich, Associate Prof. and head of the "Aging in Vision and Action" lab at the Vision Institute, Sorbonne Université, Paris, France.
+
 Ana Gonzalez Acuña, Prof., Department of Computer Science and Artificial Intelligence, UPV EHU, Leioa, Spain.
+
 Catalina Vich Llompart, Senior Lecturer, Department of Mathematics and Computer Science, Universitat de les Illes Balears, Palma, Spain.
 
 ## ABSTRACT
